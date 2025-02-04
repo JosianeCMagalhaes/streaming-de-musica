@@ -6,7 +6,7 @@
 
 ### Status do Projeto
 
-Atualmente, o projeto está em fase de construção e melhorias contínuas.
+Atualmente, o projeto está em fase de construção e melhorias.
 
 Você pode acompanhar as atualizações e evoluções diretamente nas branches abaixo, onde as versões mais recentes estão sendo desenvolvidas:
 
