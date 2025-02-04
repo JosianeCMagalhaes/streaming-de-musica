@@ -16,4 +16,4 @@ Você pode acompanhar as atualizações e evoluções diretamente nas branches a
 - [CSS Grid, Media Queries e Manipulação do DOM com JavaScript](https://github.com/JosianeCMagalhaes/streaming-de-musica/tree/css-grid-dom-js)
 - [Frameworks e Eficiência: Introdução ao React e Angular](https://github.com/JosianeCMagalhaes/streaming-de-musica/tree/frameworks-react-angular)
 
-Acompanhe as mudanças e caso queira contribuir ou sugestões, fique à vontade!
+Acompanhe as mudanças e caso queira contribuir, fique à vontade!
