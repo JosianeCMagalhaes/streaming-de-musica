@@ -10,13 +10,18 @@ Essa abordagem é útil para testes e para o desenvolvimento do front-end enquan
 
 Antes de iniciar o projeto, certifique-se de ter o [**Node.js**](https://nodejs.org/pt) instalado na sua máquina.
 
-1. **Instalar o json-server globalmente**
+1. **Desinstalar versões globais anteriores do json-server (caso necessário)**
 ```bash
-npm i json-server -g
+npm uninstall -g json-server
 ```
-Esse comando instala o json-server globalmente, permitindo que ele seja executado de qualquer lugar no terminal.
 
-2. **Iniciar o servidor JSON**
+2. **Instalar a versão correta do json-server globalmente**
+```bash
+npm i -g json-server@0.17
+```
+Esse comando instala a versão 0.17 do json-server globalmente, permitindo que ele seja executado de qualquer lugar no terminal.
+
+3. **Iniciar o servidor JSON**
 ```bash
 json-server --watch api-artists/artists.json --port 3000
 ```
@@ -63,7 +68,7 @@ cd nome-do-repositorio
 git checkout -b minha-feature
 ```
    
-5.Faça suas alterações no código e realize um commit:
+5. Faça suas alterações no código e realize um commit:
 ```bash
 git commit -m "Minha nova feature"
 ```
@@ -74,7 +79,3 @@ git push origin minha-feature
 ```
    
 7. Acesse o repositório no GitHub e abra um Pull Request para revisão. 🚀
-
-
-
-
