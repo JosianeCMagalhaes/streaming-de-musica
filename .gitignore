@@ -1,0 +1,38 @@
+### Node.js dependencies
+node_modules/
+npm-debug.log
+yarn-error.log
+
+### Angular specific
+.angular/
+*.angular.cache
+
+### React specific
+/.eslintcache
+/.next
+/.parcel-cache
+/.turbo
+/.vercel
+
+### Build outputs
+/dist/
+/out/
+/build/
+
+### Environment variables
+.env
+.env.local
+.env.development
+.env.production
+.env.test
+
+### Logs
+logs
+*.log
+
+### System files
+.DS_Store
+Thumbs.db
+
+### VS Code
+.vscode/
