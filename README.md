@@ -17,6 +17,8 @@ A aplicação se trata do front-end de um serviço de streaming de música. Nest
 
 Essa abordagem é útil para testes e para o desenvolvimento do front-end enquanto o back-end ainda está sendo construído.
 
+https://github.com/user-attachments/assets/237d1ca5-2818-4b3e-b1ec-5d0bfeaedf5a
+
 ## Instalação
 
 Antes de iniciar o projeto, certifique-se de ter o [**Node.js**](https://nodejs.org/pt) instalado na sua máquina.
