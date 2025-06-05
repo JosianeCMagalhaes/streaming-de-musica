@@ -68,12 +68,12 @@ Para contribuir com o projeto, siga os passos abaixo:
    
 2. Clone o repositório para sua máquina local:
 ```bash
-git clone <URL_DO_REPOSITORIO>
+git clone https://github.com/JosianeCMagalhaes/streaming-de-musica
 ```
    
 3. Acesse o diretório do projeto:
 ```bash
-cd nome-do-repositorio
+cd streaming-de-musica
 ```
 
 4. Crie uma nova branch para suas alterações:
